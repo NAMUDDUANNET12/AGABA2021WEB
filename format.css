@@ -1,0 +1,19 @@
+html,body{
+    height:100%;
+    width:100%;
+    margin:0;
+}
+.main-div{
+    display:flex,
+    flex-direction:left;
+    background-color:red
+}
+.first-div{
+    justify-content: left;
+    shape-outside: round;
+    color:blue
+    border:brown
+}
+.first-div[
+    
+]
